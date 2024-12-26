@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "676cad2bf9475779f8c73bfd"
+  },
+  "No_ID": "111",
+  "Nama": "Budi Santoso",
+  "Gedung": "Gedung Serbaguna Harmoni",
+  "Tanggal_Sewa": "25 Desember 2024",
+  "Durasi": "2 Hari",
+  "Total_Biaya": 20000000,
+  "Status": "Dikonfirmasi"
+},
+{
+  "_id": {
+    "$oid": "676cad80f9475779f8c73bfe"
+  },
+  "No_ID": "112",
+  "Nama": "Siti Rahmawati",
+  "Gedung": "Gedung Serbaguna Harmoni",
+  "Tanggal_Sewa": "1 Januari 2025",
+  "Durasi": "1 Hari",
+  "Total_Biaya": 10000000,
+  "Status": "Menunggu Pembayaran"
+}]

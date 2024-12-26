@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "676caaddf9475779f8c73bfb"
+  },
+  "Nama": "Andi Pratama",
+  "No_ID": 555,
+  "Jabatan": "Manajer",
+  "Lama_Kerja": "7 Tahun",
+  "Umur": "40 Tahun",
+  "Nomor_Telepon": 6287856436789,
+  "email": "Andipratama@harmoni.com"
+},
+{
+  "_id": {
+    "$oid": "676cab79f9475779f8c73bfc"
+  },
+  "Nama": "Rina Martin",
+  "No_ID": 556,
+  "Jabatan": "Staff Operasional",
+  "Lama_Kerja": "5 Tahun",
+  "Umur": "30 Tahun",
+  "Nomor_Telepon": 6285543215675,
+  "email": "Rinamartin@harmoni.com"
+}]

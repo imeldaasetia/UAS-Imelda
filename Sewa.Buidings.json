@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "676cae9bf9475779f8c73bff"
+  },
+  "Nama": "Gedung Serbaguna Harmoni",
+  "Lokasi": "Jakarta Barat",
+  "Kapasitas": "1000 Orang",
+  "Harga_Sewa": "100000000 Per Hari",
+  "Kategori": "Gedung Serbaguna"
+},
+{
+  "_id": {
+    "$oid": "676caec7f9475779f8c73c00"
+  },
+  "Nama": "Gedung Darma Indah",
+  "Lokasi": "Jakarta Selatan",
+  "Kapasitas": "500 Orang",
+  "Harga_Sewa": "50000000 Per Hari",
+  "Kategori": "Gedung Serbaguna"
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "676ca969f9475779f8c73bf9"
+  },
+  "Nama": "Budi Santoso",
+  "No_ID": 111,
+  "Jenis_Kelamin": "Laki-laki",
+  "Peran": "Penyewa",
+  "alamat": "Tanggerang",
+  "Nomor_Telepon": 6287145267257,
+  "email": "Budisantoso123@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "676ca9f6f9475779f8c73bfa"
+  },
+  "Nama": "Siti Rahmawati",
+  "No_ID": 112,
+  "Jenis_Kelamin": "Perempuan",
+  "Peran": "Penyewa",
+  "alamat": "Jakarta Barat",
+  "Nomor_Telepon": 6285765435398,
+  "email": "Sitirahmawati567@gmail.com"
+}]
